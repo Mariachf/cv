@@ -1,8 +1,8 @@
-# Currículo
+# Currículo 
 
 <a>
-    <img src = "Img/pronto.png" >
-    <img src = "Img/pronto1.png" >
+    <img src = "public/assets/pronto.png" >
+    <img src = "public/assets/pronto1.png" >
   </a>
 
 Este é um currículo online criado com Vite + React + TypeScript. O objetivo é apresentar, de forma clara e interativa, as experiências profissionais, formação acadêmica e um link para o portfólio.
