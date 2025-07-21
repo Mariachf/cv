@@ -47,7 +47,7 @@ export default function Main() {
 
                             <li><a href="#experiencia" className="a-dark">Experiência</a></li>
                             <li><a href="#formacao" className="a-dark">Formação</a></li>
-                            <li><a href="https://portifolio2025chf.netlify.app" className="a-dark" target='_black' >Portfólio</a></li>
+                            <li><a href="Your site is live at https://mariachf.github.io/-portf-lio-react-2025/" className="a-dark" target='_black' >Portfólio</a></li>
                         </ul>
                         <div className="btn"></div>
                     </div>
