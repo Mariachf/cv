@@ -22,7 +22,7 @@ Este é um currículo online criado com Vite + React + TypeScript. O objetivo é
 - Scroll Listener: Exibe ou esconde o botão "voltar ao topo" dinamicamente.
 - Dark Mode: Alternância de tema claro/escuro com classes CSS aplicadas ao <body>.
 - Estilização avançada com SCSS: Utilização de aninhamento, variáveis e efeitos visuais em hover.
-- Design responsivo e visualmente agradável.
+
 
 
 ## 🔗 Links
