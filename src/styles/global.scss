@@ -1,15 +1,37 @@
-*{
-  margin: 0;
-  padding: 0;
-  border: 0;
-  box-sizing: border-box;
-  font-family: "Urbanist", sans-serif;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: "Urbanist", sans-serif;
 }
 
 body, html {
   height: 100%;
   margin: 0;
+  scroll-behavior: smooth;
 }
+
+body.dark-mode h1,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode .dark,
+body.dark-mode p,
+body.dark-mode .a-dark{
+  color: rgb(255, 255, 255);
+}
+
+
+
+body.dark-mode .a-dark:before{
+  background: rgb(255,109,0);
+  background: linear-gradient(90deg, rgba(255,109,0,1) 0%, rgba(3,7,30,1) 82%);
+}
+
+body.dark-mode {
+  background-color: #03071e;
+  
+}
+
 
 #root {
   display: flex;
