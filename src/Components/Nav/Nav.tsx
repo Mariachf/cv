@@ -1,4 +1,4 @@
-import "./Nav.scss";
+import './Nav.scss';
 import Logo from "/src/assets/FONSECA.ico";
 import { useState, useEffect } from "react";
 import { styled } from "@mui/material/styles";
@@ -51,7 +51,7 @@ const MaterialUISwitch = styled(Switch)(() => ({
   },
 }));
 
-export default function nav() {
+export default function Nav() {
   const [darkMode, setDarkMode] = useState(false);
   const [active, setMode] = useState(false);
   const isMobileOrTablet = useMediaQuery("(max-width:768px)");
